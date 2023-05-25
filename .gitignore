@@ -1,2 +1,2 @@
-# remove backup FontLab Studio source files
-*.vfbak
+## remove backup FontLab Studio source files
+#
